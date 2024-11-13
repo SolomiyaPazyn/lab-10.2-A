@@ -1,0 +1,17 @@
+﻿  lab 10.2.1.cpp
+D:\programming\lab 10.2.1\lab 10.2.1\lab 10.2.1.cpp(211,9): error C2360: initialization of 'found' is skipped by 'case' label
+      D:\programming\lab 10.2.1\lab 10.2.1\lab 10.2.1.cpp(204,17):
+      see declaration of 'found'
+  
+D:\programming\lab 10.2.1\lab 10.2.1\lab 10.2.1.cpp(211,9): error C2360: initialization of 'lastName' is skipped by 'case' label
+      D:\programming\lab 10.2.1\lab 10.2.1\lab 10.2.1.cpp(198,20):
+      see declaration of 'lastName'
+  
+D:\programming\lab 10.2.1\lab 10.2.1\lab 10.2.1.cpp(214,9): error C2361: initialization of 'found' is skipped by 'default' label
+      D:\programming\lab 10.2.1\lab 10.2.1\lab 10.2.1.cpp(204,17):
+      see declaration of 'found'
+  
+D:\programming\lab 10.2.1\lab 10.2.1\lab 10.2.1.cpp(214,9): error C2361: initialization of 'lastName' is skipped by 'default' label
+      D:\programming\lab 10.2.1\lab 10.2.1\lab 10.2.1.cpp(198,20):
+      see declaration of 'lastName'
+  
